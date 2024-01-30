@@ -5,7 +5,7 @@ import star from '../assets/Star.png'
 import peoplegrid from '../assets/peoplegrid.png'
 const Section1 = () => {
     return (
-        <section className='mx-32 max-2xl:mx-16 max-xl:mx-8  max-md:mx-4 max-xl:flex-col max-xl:gap-16 max-xl:items-start max pl-8 py-[160px] pt-[180px] max-md:py-12 max-md:pt-[130px] flex justify-between z-40 relative'>
+        <section className='mx-32 max-2xl:mx-16 max-xl:mx-8  max-md:mx-4 max-xl:flex-col max-xl:gap-16 max-xl:items-start max pl-8 py-[160px] pt-[200px] max-md:py-12 max-md:pt-[130px] flex justify-between z-40 relative'>
             <div className=' flex flex-col gap-12 w-[780px] max-md:w-full'>
                 <div className=' flex flex-col gap-6'>
                     <p className='text-[64px] max-md:text-4xl text-gray-800 leading-[72px] tracking-[-1.28px] font-semibold'>Uniting the world,<br /> one video call at a time</p>
